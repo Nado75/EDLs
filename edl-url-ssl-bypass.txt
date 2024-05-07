@@ -1,0 +1,2 @@
+cbc.ca/
+*.cbc.ca/
